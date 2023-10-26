@@ -2,13 +2,13 @@
 
 ![GDSC Logo](gdsc-logo.png)
 
-Welcome to the official GitHub repository of the Google Developers Student Club at [Your University Name]. :mortar_board: We are a community of students passionate about technology, innovation, and collaboration :bulb: This repository serves as a hub for our projects, resources, and events. :sparkles:
+Welcome to the official GitHub repository of the Google Developers Student Club at Christ (deemed to be) University, Lavasa campus. :mortar_board: We are a community of students passionate about technology, innovation, and collaboration :bulb: This repository serves as a hub for our projects, resources, and events. :sparkles:
 
 ## About GDSC :book:
 
 The Google Developers Student Clubs program is a Google Developers program designed for university students interested in Google developer technologies. :earth_americas: It is open to any student, ranging from novice developers who are just starting to advanced developers who want to further their skills. :bar_chart:
 
-Our GDSC at [Your University Name] is committed to:
+Our GDSC at Christ (deemed to be) University, Lavasa campus is committed to:
 
 - **Fostering Innovation** :rocket:: We aim to create an environment that encourages creative thinking and innovation. :bulb:
 
