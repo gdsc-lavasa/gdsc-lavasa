@@ -1,6 +1,7 @@
 # Google Developers Student Club (GDSC) :computer: :rocket:
 
-![GDSC Logo](gdsc-logo.png)
+![GDSC Logo](![image](https://github.com/gdsc-lavasa/gdsc-lavasa/assets/148972015/3e38da86-bfb3-4fc4-814e-b103bd3f8fc3)
+)
 
 Welcome to the official GitHub repository of the Google Developers Student Club at Christ (deemed to be) University, Lavasa campus. :mortar_board: We are a community of students passionate about technology, innovation, and collaboration :bulb: This repository serves as a hub for our projects, resources, and events. :sparkles:
 
