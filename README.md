@@ -30,12 +30,13 @@ To contribute to our projects or get involved with our club, you will need the f
 
 1. Star this repository to show your support :star:.
 2. Explore our [Projects](https://github.com/YourUsername/GDSC/projects) to find opportunities to contribute :hammer:.
-3. Attend our upcoming events and workshops - stay updated on our [Website](https://your-club-website.com) or [Instagram](https://instagram.com/gdsc.cul?igshid=MzRlODBiNWFlZA). :calendar:
+3. Attend our upcoming events and workshops - stay updated on our [Website](https://your-club-website.com) or [LinkedIn](https://www.linkedin.com/in/gdsc-christlavasa/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app). :calendar:
 
 ## Contact Us :email:
 
-- Email: [your-email@example.com](mailto:your-email@example.com) :envelope:
-- Instagram: [@gdsc.cul](https://instagram.com/gdsc.cul?igshid=MzRlODBiNWFlZA) :bird:
+- Email: [gdsc.lavasa@christuniversity.in](mailto:gdsc.lavasa@christuniversity.in) :envelope:
+- Instagram: [@gdsc.cul](https://instagram.com/gdsc.cul?igshid=MzRlODBiNWFlZA) :globe_with_meridians:
+- LinkedIn: [GDSC CUL](https://www.linkedin.com/in/gdsc-christlavasa/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) :globe_with_meridians:
 - Website: [https://your-club-website.com](https://your-club-website.com) :globe_with_meridians:
 
 We look forward to having you as a part of our GDSC community! :tada:
